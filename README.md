@@ -18,7 +18,7 @@ I have built a Adi Text Bot which is a Telegram chatbot using Python, `aiogram`,
 ## 🛠 Tech Stack
 
 - Python
-- [aiogram](https://docs.aiogram.dev/en/latest/) – Telegram Bot framework
+- aiogram – Telegram Bot framework
 - OpenAI GPT-3.5 Turbo
 - asyncio
 
